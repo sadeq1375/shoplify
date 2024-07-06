@@ -1,5 +1,5 @@
-import Image from "next/image";
+const HomePage = () => {
+  return <div className="bg-red-500">HomePage</div>;
+};
 
-export default function Home() {
-  return <div className="h-10 bg-red-500">hello</div>;
-}
+export default HomePage;
