@@ -1,5 +1,11 @@
+import Slider from "@/components/Slider";
+
 const HomePage = () => {
-  return <div className="bg-red-500">HomePage</div>;
+  return (
+    <div className="">
+      <Slider />
+    </div>
+  );
 };
 
 export default HomePage;
