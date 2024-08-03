@@ -68,7 +68,7 @@ const Footer = () => {
             Be the first to get the latest news about trends,promotions and much
             more
           </p>
-          <div className="flex">
+          <div className="flex sm:w-56">
             <input
               type="text"
               placeholder="Email adress"
